@@ -1,4 +1,5 @@
 repo: "hidden-message-fixer"
+canvasCourse: javascript
 
 naming: true
 restrictFileTypes: true
@@ -25,5 +26,5 @@ js:
     bestPractices: true
 
 screenshots:
-  - path: 'index.html'
+  - path: "index.html"
     sizes: [400]
