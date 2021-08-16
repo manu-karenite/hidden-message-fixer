@@ -25,3 +25,8 @@ Visually match the images in the “screenshots” folder.
 ## Hand in
 
 Drop this folder into your Markbot application. Make sure to fix all the errors. And submit online.
+
+---
+
+## Result
+Corrected the HTML , CSS & Javascript File to achieve the desired output
